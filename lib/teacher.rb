@@ -6,10 +6,4 @@ class Teacher < User
     KNOWLEDGE.sample
   end
 
-  def
-
-
-
-
-
 end
