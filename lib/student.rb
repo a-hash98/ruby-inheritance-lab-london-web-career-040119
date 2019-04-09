@@ -10,5 +10,9 @@ class Student < User
     @knowledge.push(data)
   end
 
+  def knowledge
+    @knowledge
+  end
+
 
 end
